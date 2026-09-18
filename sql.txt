@@ -1,0 +1,3 @@
+sqL: https://www.stratascratch.com/learn/comprehensive-sql/select-and-from-basics
+
+
