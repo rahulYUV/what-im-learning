@@ -1,3 +1,4 @@
 sqL: https://www.stratascratch.com/learn/comprehensive-sql/select-and-from-basics
 sql: notion notes => https://app.notion.com/p/SQL-3e6a6ba5444380d0a6a2fe66b1e0b831?source=copy_link
+sql: goldMines => https://leetcode.com/studyplan/top-sql-50/ (10% done) 50%= 30/9
 
