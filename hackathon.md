@@ -6,3 +6,7 @@
 ## 2  Symphony * Buildathon(Bolna YC)
 
 -Idea : Hisaab; Building a voice agent designed to assist Kirana stores with credit recovery
+
+## https://github.com/rahulYUV/hackerrank-orchestrate-october26
+
+- Build a Deterministic deletion-audit agent
